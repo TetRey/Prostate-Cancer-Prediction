@@ -1,0 +1,3 @@
+Prostate cancer prediction with Machine Learning, such as Naive Bayes Classifier, Support Vector Machine, Random Forest, and Decision Tree. 
+This dataset was collected from https://www.kaggle.com/datasets/sajidsaifi/prostate-cancer .
+We splitted the operation. The first one, Dataset was processed without data transformation and feature selection. The second one, Dataset was processed with data transformation and feature selection
